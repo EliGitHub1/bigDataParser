@@ -1,11 +1,15 @@
 # bigDataParser
 
 
+installation
+_____________
+
 Runs on linux
 
 
+Examples
+______________
 To Run differant senarios:
-
 
 makefile	
 make commends :	
